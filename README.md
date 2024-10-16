@@ -6,6 +6,8 @@
 
 🔧I used python for solving this problem, specifically the pandas library
 
+🔄To recreate and run the program add the 3 data sets to a folder called "datasets" in root
+
 🚀How i approached the solution?
 The first step i took was opening the datasets to see what kind of data i was dealing with, and what kind of separator did each file have.
 After that I looked at the columns of each data set in the search for the Category, Address , Phone and Company names:
